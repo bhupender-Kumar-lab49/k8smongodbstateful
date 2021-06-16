@@ -1,0 +1,6 @@
+architecture: replicaset
+replicaCount: 3
+#ddpersistance:
+#   storageClass: "mongodb"
+auth:
+   rootPassword: root 

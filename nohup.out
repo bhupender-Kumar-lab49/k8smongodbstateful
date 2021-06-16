@@ -1,0 +1,7 @@
+Error: unknown shorthand flag: 'd' in -d
+See 'kubectl port-forward --help' for usage.
+Forwarding from 127.0.0.1:27017 -> 27017
+Forwarding from [::1]:27017 -> 27017
+Handling connection for 27017
+Handling connection for 27017
+Handling connection for 27017
